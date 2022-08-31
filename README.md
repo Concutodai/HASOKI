@@ -25,7 +25,7 @@
 ```sh
   [Layer 7]
  - http2 | HTTP/2 attack with proxy [httpx]
- - cfb   | Bypass CF attack
+ - cfb   | Ddos xxXxxXxxX
  - pxcfb | Bypass CF attack tsl1.3 with proxy [fixed work]
  - cfpro | Bypass CF UAM(Under Attack Mode), CAPTCHA, BFM(Bot Fight Mode) etc.. (request)
  - cfsoc | Bypass CF UAM(Under Attack Mode), CAPTCHA, BFM(Bot Fight Mode) etc.. (socket)
